@@ -19,8 +19,8 @@
 - 🔭 I'm currently working on **innovative projects**
 - 🌱 Always learning and exploring new technologies
 - 👨‍💻 Check out my projects and contributions
-- 💬 Ask me about **programming, development, and technology**
-- 📫 Reach me at **your-email@example.com**
+- 💬 Ask me about **programming,Full Stack development, and technology**
+- 📫 Reach me at **avinashm0443@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems**
 
 ---
